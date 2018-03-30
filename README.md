@@ -6,6 +6,9 @@
 
 ![lawndroid](https://github.com/mrantonwinter/lawndroid/blob/master/img/IMG_1807.jpg?raw=true)
 
+![lawndroid dimensions](https://github.com/mrantonwinter/lawndroid/blob/master/img/IMG_1799.jpg?raw=true
+)
+
 Tyre and rim STL files now available on github
 https://github.com/mrantonwinter/lawndroid/tree/master/stl
 
