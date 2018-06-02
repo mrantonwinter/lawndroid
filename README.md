@@ -19,7 +19,8 @@
 **components**
 https://github.com/mrantonwinter/lawndroid/tree/master/bill%20of%20materials
 
-https://raw.githubusercontent.com/mrantonwinter/lawndroid/master/img/bom.jpg
+![lawndroid](https://raw.githubusercontent.com/mrantonwinter/lawndroid/master/img/bom.jpg)
+
 
 
 **3d Printed**
