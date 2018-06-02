@@ -29,4 +29,5 @@
 | strobe light  | ![lawndroid](https://raw.githubusercontent.com/mrantonwinter/lawndroid/master/bill%20of%20materials/img/strobelight.jpg) |
 | rc transmitter and receiver | ![lawndroid](https://raw.githubusercontent.com/mrantonwinter/lawndroid/master/bill%20of%20materials/img/transmitter.jpg) |
 | wire harness | ![lawndroid](https://raw.githubusercontent.com/mrantonwinter/lawndroid/master/bill%20of%20materials/img/wire%20harness.jpg) |
-
+| switch 6 prong | ![lawndroid](https://raw.githubusercontent.com/mrantonwinter/lawndroid/master/bill%20of%20materials/img/switch.jpg) |
+| conduit | ![lawndroid](https://raw.githubusercontent.com/mrantonwinter/lawndroid/master/bill%20of%20materials/img/conduit.jpg) |
