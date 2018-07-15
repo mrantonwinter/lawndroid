@@ -24,5 +24,5 @@ https://github.com/mrantonwinter/lawndroid/tree/master/bill%20of%20materials
 
 
 **3d Printed**
-Tyre and rim STL files now available
+STLs 
 https://github.com/mrantonwinter/lawndroid/tree/master/stl
