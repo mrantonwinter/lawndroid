@@ -1,8 +1,8 @@
 
 
-## Open source semi autonomous lawn mower
+## Open source 3d printed RC lawn mower
 
-## lawn droid - LDL1
+## lawn droid - LDRC1
 
 ![lawndroid](https://github.com/mrantonwinter/lawndroid/blob/master/img/IMG_1807.jpg?raw=true)
 
